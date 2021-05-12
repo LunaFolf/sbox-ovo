@@ -1,0 +1,20 @@
+{
+  "name": "One versus One",
+  "version": "1.0.0",
+  "sharedassets": "*.*",
+
+  "depends":
+  [
+    "base",
+    "citizen"
+  ],
+
+  "gamemodes":
+  [
+    {
+      "name": "One versus One",
+      "title": "One versus One [OvO]",
+      "description": "One versus One is a fast paced, background game where players can test their skills and just have some allround fun."
+    }
+  ]
+}
